@@ -1,4 +1,4 @@
-name: Print pull request context 
+name: print pull request context 
 on: workflow_dispatch
 jobs: 
   print: 
